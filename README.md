@@ -1,6 +1,5 @@
 # NiceRead
 
-[点我下载apk](http://fir.im/jr8h)
 
 一个练习项目，目前主要涉及的知识点如下：
 * MVP + RxJava + Retrofit
